@@ -29,6 +29,7 @@ import {
     Ecommerce,
     chat,
     Quiz,
+    student,
 
   } from "../assets";
   
@@ -150,7 +151,7 @@ import {
       name: "Aditya Singh",
       designation: "Student",
       company: "PIET",
-      image: "./src//assets/student.png",
+      image: student,
     },
     {
       testimonial:
@@ -158,7 +159,7 @@ import {
         name: "Aviraj Rathore",
         designation: "Student",
         company: "SKIT",
-      image: "./src//assets/student.png",
+      image: student,
     },
     {
       testimonial:
@@ -166,7 +167,7 @@ import {
       name: "Sadhvi Shukla",
       designation: "Student",
       company: "JECRCU",
-      image: "./src//assets/student.png",
+      image: student,
     },
   ];
   

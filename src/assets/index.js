@@ -33,6 +33,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import chat from "./chat.png";
 import Quiz from "./Quiz.png";
+import student from "./student.png";
 
 export {
   logo,
@@ -67,4 +68,5 @@ export {
   Ecommerce,
   chat,
   Quiz,
+  student,
 };
