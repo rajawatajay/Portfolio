@@ -48,7 +48,7 @@ const Contact = () => {
         },
 
         '-b4vmzKXAx1S-HU6C'
-      )git 
+      )
       .then(
         () => {
           setLoading(false);
